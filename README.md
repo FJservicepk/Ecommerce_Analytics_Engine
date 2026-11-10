@@ -53,10 +53,12 @@ When you run the pipeline, it processes your dataset and generates four key anal
 # 📂 Project Structure
 
 ecommerce-analytics-engine
-│
-├── transactions.csv       # Raw transaction data (CSV file)
-├── analytics_engine.py    # Main Python script with pipeline logic
-└── README.md              # Project documentation
+
+1.transactions.csv       # Raw transaction data (CSV file)
+
+2.analytics_engine.py    # Main Python script with pipeline logic
+
+3.README.md              # Project documentation
 
 
 # 🚀 How to Run & Use It
