@@ -72,16 +72,26 @@ Download the project files into a folder on your computer.
 Ensure your `transactions.csv` file is in the same folder as your Python script, formatted like this:
 
 "csv
-order_id,name,category,amount 
-1001,Hassan,Electronics,1200.0 
+order_id,name,category,amount
+
+1001,Hassan,Electronics,1200.0
+
 1002,Bilal,Fashion,150.0 
+
 1003,Abdul Rehman,Groceries,85.0 
+
 1004,Hassan,Groceries,65.0 
+
 1005,Bilal,Fashion,220.0 
+
 1006,Muneeb,Electronics,450.0 
+
 1007,Hassan,Electronics,300.0 
-1008,Abdul Rehman,Fashion,120.0 
+
+1008,Abdul Rehman,Fashion,120.0
+
 1009,Muneeb,Groceries,95.0 
+
 1010,Afaq,Books,45.0
 "
 
